@@ -17,6 +17,13 @@
 - 所见即所得预览：PDF 预览直接使用与下载相同的生成引擎，预览什么样下载就什么样
 - 逐页翻看
 
+### 📥 一键下载（推荐，下载后双击打开即可使用）
+[👉 下载水印工坊-单文件版.html](https://github.com/Geng077/Watermark/releases/latest/download/水印工坊-单文件版.html)
+
+### 🌐 在线网页版（GitHub Pages）
+[👉 在线打开网页版](https://geng077.github.io/Watermark/)
+
+
 ## 使用
 
 **方式一（推荐）**：双击 `启动.bat`，会自动打开浏览器并启动本地服务。
