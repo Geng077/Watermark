@@ -18,7 +18,7 @@
 - 逐页翻看
 
 ### 📥 一键下载（推荐，下载后双击打开即可使用）
-[👉 下载水印工坊-单文件版.html](https://github.com/Geng077/Watermark/releases/latest/download/水印工坊-单文件版.html)
+[👉 下载水印工坊-单文件版.html]([https://github.com/Geng077/Watermark/releases/latest/download/水印工坊-单文件版.html](https://github.com/Geng077/Watermark/releases/tag/V1.0))
 
 ### 🌐 在线网页版（GitHub Pages）
 [👉 在线打开网页版](https://geng077.github.io/Watermark/)
