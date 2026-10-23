@@ -18,8 +18,8 @@
 ### 📥 一键下载（推荐，下载后双击打开即可使用）
 [👉 下载水印工坊 V2.0.zip](https://github.com/Geng077/Watermark/releases/latest/download/V2.0.zip)
 
-### 🌐 在线网页版（GitHub Pages）
-[👉 在线打开网页版](https://geng077.github.io/Watermark/)
+### 🌐 在线网页版
+[👉 在线打开水印工坊](https://geng077.github.io/Watermark/)
 
 ## 📝 功能清单
 - 文字水印：自定义文字、字体、大小、颜色、透明度、旋转角度
