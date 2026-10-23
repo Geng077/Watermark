@@ -16,7 +16,7 @@
 - Word DOCX
 
 ### 📥 一键下载（推荐，下载后双击打开即可使用）
-[👉 下载水印工坊 V2.0.zip](https://github.com/Geng077/Watermark/releases/latest/download/V2.0.7z)
+[👉 下载水印工坊 V2.0.zip](https://github.com/Geng077/Watermark/releases/latest/download/V2.0.zip)
 
 ### 🌐 在线网页版（GitHub Pages）
 [👉 在线打开网页版](https://geng077.github.io/Watermark/)
